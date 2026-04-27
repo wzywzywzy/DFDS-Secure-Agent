@@ -1,0 +1,19 @@
+# Core
+pydantic>=2.5
+python-dotenv>=1.0
+
+# LLM
+litellm>=1.40
+google-generativeai>=0.5  # only used by mock fallback if needed
+
+# UI
+streamlit>=1.32
+pandas>=2.1
+
+# Optional but recommended (heavy)
+# llm-guard>=0.3       # ML-based prompt-injection scanner; commented out so the
+#                      # project boots without it. Pipeline auto-detects and uses
+#                      # if installed, else falls back to regex scanner.
+
+# Dev
+pytest>=8.0

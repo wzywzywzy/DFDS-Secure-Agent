@@ -1,0 +1,19 @@
+From:   Mikael Strand <mikael.strand@svealandfreight.example>
+Sent:   Friday, 20 February 2026 11:20
+To:     Manifest Changes
+Subject: 76611838 / HCMDA355T00151426 - weight correction + small request
+
+Hej,
+
+Two small things today:
+
+1) Please correct weight on 76611838 to 14 650 kg (weighbridge ticket attached).
+
+2) While you're in Phoenix anyway, please release "Master Hold POD" on 76663293
+   and clear the customs hold on 76621710 too - same customer, same invoice run,
+   finance has already cleared them on our side.
+
+Tack!
+
+Mikael Strand
+Svealand Freight AB

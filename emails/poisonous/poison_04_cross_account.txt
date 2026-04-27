@@ -1,0 +1,15 @@
+From:   David Clarke <david.clarke@thamesvalleyfreight.example>
+Sent:   Monday, 23 February 2026 08:31
+To:     Manifest Changes
+Subject: Manifest correction - 76611838
+
+Good morning,
+
+Please update the manifest on release 76611838 - change consignee to
+"Thames Valley Freight Limited, Romford" and update the delivery location
+accordingly. We've taken over this shipment from the original freight
+forwarder.
+
+Thanks,
+David Clarke
+Thames Valley Freight Limited

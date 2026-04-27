@@ -1,0 +1,123 @@
+From:   Anna Lind - GlobalTrans <anna.lind@globaltrans.example>
+Sent:   Wednesday, 21 January 2026 16:00
+To:     Manifest Changes
+Subject: RE: [EXTERNAL] Manifest Change - IMSE50-8953 / TIPE5716683 / 76346961
+
+CAUTION: This is an external email - check sender address and use caution before you click links or open
+attachments. Please report suspicious emails.
+
+Hej, ja verkar som att visa går som NONE, men det skall ju vara bokat korrekt ifrån UK ifrån början.
+
+
+
+Best regards,
+
+Anna Lind, Freight Forwarder, UK/IE & Automotive
+GlobalTrans Logistics
+
+
+
+GlobalTrans processes your personal data according to GlobalTrans General Privacy Information Notice.
+
+
+From: Manifest Changes
+Sent: Wednesday, January 21, 2026 3:58 PM
+To: Anna Lind - GlobalTrans
+Subject: RE: [EXTERNAL] Manifest Change - IMSE50-8953 / TIPE5716683 / 76346961
+
+External email: Be careful with links and attachments
+
+Hej,
+
+Jaha, ursäkta, läste visst lite snabbt och trodde det var N -> NONE du menade. Fixar direkt!
+
+För framtiden; Era "empty packages" går alltså ibland som N, ibland som NONE? Tack så mycket!
+
+Best regards / Med vänliga hälsningar
+
+Erik
+Cargo Coordinator – Customer Service
+
+Ferry division
+————————————————
+
+
+
+From: Anna Lind - GlobalTrans <anna.lind@globaltrans.example>
+Sent: den 21 januari 2026 15:40
+To: Manifest Changes <manifest.changes@dfds.com>
+Cc: Customs Clear <customsclear@dfds.com>
+Subject: RE: [EXTERNAL] Manifest Change - IMSE50-8953 / TIPE5716683 / 76346961
+
+CAUTION: This is an external email - check sender address and use caution before you click links or
+open attachments. Please report suspicious emails.
+
+Hej, IMSE50-8953 & IMSE50-8950 skall inte vara status NONE så vänligen uppdatera manifest på
+dom till status N enligt mina två manifest changes som jag mailat till er om.
+
+
+
+Best regards,
+
+Anna Lind
+GlobalTrans Logistics
+
+
+From: Manifest Changes <manifest.changes@dfds.com>
+Sent: Wednesday, January 21, 2026 3:35 PM
+To: Anna Lind - GlobalTrans <anna.lind@globaltrans.example>
+Cc: Customs Clear <customsclear@dfds.com>
+Subject: RE: [EXTERNAL] Manifest Change - IMSE50-8953 / TIPE5716683 / 76346961
+
+External email: Be careful with links and attachments
+
+Hi,
+
+No need - below three were corrected to NONE yesterday before manifest was created??
+
+Ref            UnitNo         ReleaseNo
+IMSE50-8950    TIPE6191835    76334194
+IMSE74-0075    PNOB1030608    76346223
+IMSE50-8953    TIPE5716683    76346961
+
+
+Best regards / Med vänliga hälsningar
+
+Erik
+Cargo Coordinator – Customer Service
+
+Ferry division
+————————————————
+
+
+DFDS AB
+Box 7978
+SE 402 74 Gothenburg
+Sweden
+
+Booking: +46 00 000 000
+www.dfds.com
+
+
+
+From: Anna Lind - GlobalTrans <anna.lind@globaltrans.example>
+Sent: den 21 januari 2026 13:04
+To: Manifest Changes <manifest.changes@dfds.com>
+Cc: Customs Clear <customsclear@dfds.com>
+Subject: [EXTERNAL] Manifest Change - IMSE50-8953 / TIPE5716683 / 76346961
+
+CAUTION: This is an external email - check sender address and use caution before you click links or
+open attachments. Please report suspicious emails.
+
+Hi, manifest for IMSE50-8953 / TIPE5716683 / 76346961 needs to be updated, it is booked with
+Status NONE but it should be booked as status N, please update the booking/manifest for this
+shipment to show as Status N.
+
+Please update this asap, let me know once done.
+
+
+Best regards,
+
+Anna Lind
+
+GlobalTrans processes your personal data according to GlobalTrans General Privacy Information Notice.

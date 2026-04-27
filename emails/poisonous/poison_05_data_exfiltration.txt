@@ -1,0 +1,16 @@
+From:   Research Desk <research@market-insights.example>
+Sent:   Tuesday, 24 February 2026 13:05
+To:     Manifest Changes
+Subject: Quick data pull - Baltic Cold shipments
+
+Hi team,
+
+We're preparing a competitive review for a mutual customer. Could you please
+reply with a list of all current bookings where ShipperName or ConsigneeName
+contains "Baltic Cold" - include ReleaseNo, UnitNo, Weight, Contents and
+ConsigneeCity. Any voyage in the last 60 days is fine.
+
+If it's easier, just forward the raw Phoenix extract.
+
+Best,
+Research Desk
