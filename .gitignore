@@ -13,4 +13,5 @@ audit_logs/latest_results.json
 .vscode/
 *.zip
 /tmp/
+compat_pack.tar.gz
 
